@@ -1,4 +1,7 @@
-<h1 align="center"> exercicios Colevatti Thread</h1>
+<h1 align="center">
+  <p align="center">Docusaurus</p>
+  <a href="https://docusaurus.io"><img src="https://docusaurus.io/img/slash-introducing.svg" alt="Docusaurus"></a>
+</h1>
 
 
 0) Criar em java um projeto com uma Thread chamada
@@ -33,3 +36,4 @@ sapo, deve mostrar no console, qual foi o tamanho do salto e
 quanto o sapo percorreu. Assim que o sapo percorrer a
 distância máxima, a Thread deve apresentar que o sapo
 chegou e qual sua colocação.
+
