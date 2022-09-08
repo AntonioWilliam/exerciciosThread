@@ -1,2 +1,1 @@
-# exerciciosThread
-Exercicios de Thread FATEC ZONA LESTE 
+<h1 align="center"> exercicios</h1>
