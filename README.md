@@ -1,6 +1,6 @@
 <h1 align="center"> exercicios Colevatti Thread</h1>
 
-Exercícios:
+
 0) Criar em java um projeto com uma Thread chamada
 ThreadVetor, que receba um valor numérico e vetor como
 parâmetros. Caso o valor numérico seja par, a thread deve percorrer
